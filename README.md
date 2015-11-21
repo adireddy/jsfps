@@ -1,2 +1,2 @@
 # jsfps
-Haxe externs for collection of different js frame rate counters
+Externs of js fps counters (Stats & FPSMeter)
