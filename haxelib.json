@@ -14,8 +14,8 @@
 	"contributors": [
 		"adireddy"
 	],
-	"releasenote": "initial release",
-	"version": "1.0.0",
+	"releasenote": "added simple fps with no ui",
+	"version": "1.0.1",
 	"url": "https://github.com/adireddy/jsfps",
 	"dependencies": {
 
