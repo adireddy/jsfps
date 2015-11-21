@@ -43,7 +43,7 @@ extern class Stats {
 	 * Sets the display mode.
 	 *
 	 * @method setMode
-	 * @param value {Int} 0: fps, 1: ms
+	 * @param value {Int} 0: simplefps, 1: ms
 	 */
 	function setMode(value:Int):Void;
 }

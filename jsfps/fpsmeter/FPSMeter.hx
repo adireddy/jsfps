@@ -67,8 +67,8 @@ extern class FPSMeter {
 typedef Options = {
 	@:optional var interval:Int; // Update interval in milliseconds.
 	@:optional var smoothing:Float; // Spike smoothing strength. 1 means no smoothing.
-	@:optional var show:String; // Whether to show 'fps', or 'ms' = frame duration in milliseconds.
-	@:optional var toggleOn:String; // Toggle between show 'fps' and 'ms' on this event.
+	@:optional var show:String; // Whether to show 'simplefps', or 'ms' = frame duration in milliseconds.
+	@:optional var toggleOn:String; // Toggle between show 'simplefps' and 'ms' on this event.
 	@:optional var decimals:Int; // Number of decimals in FPS number. 1 = 59.9, 2 = 59.94, ...
 	@:optional var maxFps:Int; // Max expected FPS value.
 	@:optional var threshold:Int; // Minimal tick reporting interval in milliseconds.
